@@ -9,4 +9,4 @@ elif Número < 0:
     print("el número es negativo.")
 
 else:
-    print("el número es cero.")
+    print("Ingrese otro numero que no sea cero.")

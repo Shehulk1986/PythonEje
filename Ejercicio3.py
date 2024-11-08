@@ -9,5 +9,5 @@ if Sueldo < 300000:
     print("valor Sueldo: " , Sueldo)
     
 else:
-    aumento = 0
+    print("No hay aumento")
         
